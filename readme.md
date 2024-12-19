@@ -1,6 +1,6 @@
 # DS24 Open Lab | Integrating Gemini APIs with Python and Building a Chatbot App with Streamlit
 
-This repository contains the lab for demonstrating Hands-On with Integrating Gemini APIs with Python and Building a Chatbot App with Streamlit. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating Hands-On with Integrating Gemini APIs with Python and Building a Chatbot App with Streamlit. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
@@ -12,7 +12,9 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
-• Download and install Streamlit through https://streamlit.io/
+• Download and Install Streamlit - https://streamlit.io/
+
+• Install Python - https://www.python.org/
 
 ## Repository Contents
 
